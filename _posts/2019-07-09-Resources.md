@@ -24,4 +24,10 @@ Not only this series, but the enitre catalog by [3Blue1Brown](https://www.youtub
 oozes from the screen. In the Machine Learning series, he references some good materials, one of them being a freely available book;
 on machine learning with Python.
 
+Python Data Science Handbook <br>
+https://jakevdp.github.io/PythonDataScienceHandbook/
+
+Haven't read this; looking forward to it
+
+
 There it is. Go forth and do great things. 
