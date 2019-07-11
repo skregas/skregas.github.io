@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heading Off on the Yellow Brick Road of Data Science Magic
-tags: start begining
+tags: [start, begining]
 ---
 
 This is primarily for me, reflecting on the journey, and secondarily an ongoing poke in the ribs to not take it all so damn seriously.
