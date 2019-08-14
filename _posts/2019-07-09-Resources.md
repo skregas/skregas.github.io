@@ -28,5 +28,32 @@ oozes from the screen. In the Machine Learning series, he references some good m
 
 Haven't read this; looking forward to it
 
+**EDIT**
+Have to put some online courses on this list. Recently ran across the following:
+##### On Coursera
+
+[Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)(free)<br>
+Of course this needs to be here. I know I need this refresher.
+
+[IBM Data Science Pro Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)(free)<br>
+This looks cool. It starts with data science, using Python to do data science, then seques into ML and then into AI further along.<br>
+
+[IBM AI Pro Certification](https://www.coursera.org/professional-certificates/ibm-artificial-intelligence)(free)<br>
+Yes, this is supported by IBM, using their Watson technology, but it looks like a great topics course in various AI frameworks, tools and techniques.
+
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)(free)<br>
+Strictly speaking, this is more akin to ML and AI, but it seems the three disciplines are deeply intertwined.
+
+
+##### On Udacity
+(most of these will not be free; rather they are part of what Udactiy calls a "Nanodegree Program")
+
+[Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101)<br>
+
+[Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)<br>
+
+[Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)
+
+
 ***
 There it is. Go forth and do great things.
