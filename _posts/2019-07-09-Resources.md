@@ -31,17 +31,18 @@ Haven't read this; looking forward to it
 **EDIT**
 Have to put some online courses on this list. Recently ran across the following:
 ##### On Coursera
+[Note: enrollment is free, which starts a 7-day trial. After that, it's pay-to-learn]
 
-[Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)(free)<br>
+[Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)<br>
 Of course this needs to be here. I know I need this refresher.
 
-[IBM Data Science Pro Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)(free)<br>
+[IBM Data Science Pro Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)<br>
 This looks cool. It starts with data science, using Python to do data science, then seques into ML and then into AI further along.<br>
 
-[IBM AI Pro Certification](https://www.coursera.org/professional-certificates/ibm-artificial-intelligence)(free)<br>
+[IBM AI Pro Certification](https://www.coursera.org/professional-certificates/ibm-artificial-intelligence)<br>
 Yes, this is supported by IBM, using their Watson technology, but it looks like a great topics course in various AI frameworks, tools and techniques.
 
-[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)(free)<br>
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)<br>
 Strictly speaking, this is more akin to ML and AI, but it seems the three disciplines are deeply intertwined.
 
 
