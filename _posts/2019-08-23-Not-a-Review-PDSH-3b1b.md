@@ -18,7 +18,7 @@ The [Essence of Linear Algebra][b6f0dd31] series by
   [b6f0dd31]: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab "Playlist on YouTube"
   [327c1fea]: https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw "YouTube channel"
 
-There's no meaningless bubble here: at the end of the series, he illustrates how linear algebra provides a generalized system of thinking, or vector spaces, that can be applied in all sorts of ways. With clarity, alacrity, enthusiasm, obvious passion and dedication, exceptional animations and video editing, this series is not to be missed. Maybe some lightbulbs will finally come on.
+There's no meaningless babble here: at the end of the series, he illustrates how linear algebra provides a generalized system of thinking, or vector spaces, that can be applied in all sorts of ways. With clarity, alacrity, enthusiasm, obvious passion and dedication, exceptional animations and video editing, this series is not to be missed. Maybe some lightbulbs will finally come on.
 
 
 ---
