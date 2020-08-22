@@ -26,13 +26,18 @@ First, let's talk about imports. As with most modern programming language, Flutt
 Once you find a package that fits your needs, the first step
 is adding the extension to `pubspec.yml`. This is bascially a configuration file that informs Flutter about certain aspects of your application. In the case of imports, adding a package reference tells Flutter it exists, you want to use it, and to download it on the next package refresh.
 So, open `app/pubspec.yml`, and add the package reference in the `dependencies` section:
+
 ```
+
 dependencies:
     simple_coverflow: ^0.0.8
+
 ```
+
 The numbers after the package are version identifiers. Sometimes apps will require a specific version of a package to work properly; those numbers are what to look for. The '^' means: 'use a version greater than this'
 
 Next step is importing the package into your program like so:
+
 `import 'package:simple_coverflow/simple_coverflow.dart';`
 
 Conventionaly, import statements like the one above are placed at the beginning of the file. This practice helps keep the code neat and tidy, readable for you six months from now, or others in the future.
